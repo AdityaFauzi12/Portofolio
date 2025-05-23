@@ -1,16 +1,7 @@
-# portfolio_app
+nama : aditya fauzi
+prodi : sistem informasi 
+semester : 6 
 
-A new Flutter project.
+fitur fitur pada portofolio yakni ada tools more about me ketika di klik akan transisi ke home,about,portofolio dan contact selama 2 detik secara otomastis dan juga ada fitur whatsapp, instagram, tiktok dan link in yang langsung terhung dengan media sosial saya 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Cuplikan layar 2025-05-23 091846](https://github.com/user-attachments/assets/662f3132-9a4a-4e4d-947a-aafc6475c890)
